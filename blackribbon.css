@@ -1,0 +1,15 @@
+.blackribbon {
+  position:fixed; margin:0; padding:0; z-index:10000;
+}
+.blackribbon-top-left {
+  top:0; left:0;
+}
+.blackribbon-top-right {
+  top:0; right:0;
+}
+.blackribbon-bottom-left {
+  bottom:0; left:0;
+}
+.blackribbon-bottom-right {
+  bottom:0; right:0;
+}
